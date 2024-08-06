@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DocScan</string>
+    <string name="scan_result">scanresult</string>
+    <string name="error_scanner_cancelled">error_scanner_cancelled</string>
+    <string name="error_default_message">error_default_message</string>
+    <string name="error_saving_document_message">error_saving_document_message\n</string>
+    <string name="document_saved_message">document_saved_message</string>
+    <string name="error_writing_pdf_message">error_writing_pdf_message</string>
+    <string name="unknown_error_message">unknown_error_message</string>
+    <string name="error_scanning_message">error_scanning_message</string>
+    <string name="invalid_page_limit_message">invalid_page_limit_message</string>
+</resources>
